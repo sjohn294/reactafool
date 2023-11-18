@@ -1,8 +1,29 @@
-# React + Vite
+# REACTFOOL
+ ## Description
+  A react app displaying my information a way to contact me and 6 of my projects
+  
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contribution Guidelines](#contribution-guidelines)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  
+  ## Installation
+  clone the repository and run npm i
+  
+  ## Usage
+  to showcase to employers my talents
+  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  
+  ## Contribution Guidelines
+  N/A
+  
+  ## Tests
+  click deployed link check all tabs in Nav and click links to projects
+  
+  ## Questions
+  If you have any questions about this project, please contact me on [GitHub](https://github.com/sjohn294) or email me at johnson.sam26.sj@gmail.com.
